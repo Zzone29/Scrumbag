@@ -1,8 +1,8 @@
 # Scrumbag
 A repo for a school assignment.
 
-##What is this???
+## What is this???
 This is a repo I made for a college assignment. It exists only for that purpose, that being existing for a college assignment. Cool, isn't it?
 
-##What license does this repo use?
+## What license does this repo use?
 None. I forgor to choose one.
