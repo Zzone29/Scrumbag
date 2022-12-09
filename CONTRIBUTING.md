@@ -5,5 +5,5 @@
 Pretty simple, right?
 
 # Here's the contributors:
-Kaden Zaremba
-[YO, ADD YOUR NAME HERE]
+* Kaden Zaremba
+* [YO, ADD YOUR NAME HERE]
